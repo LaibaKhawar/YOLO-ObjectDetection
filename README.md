@@ -2,7 +2,7 @@
 
 Open-vocabulary detection of vegetables in a photo with YOLO-World (via Roboflow `inference`), turning the detected items into a bill, plus a Flask prototype that does the same through a hosted YOLO-World demo and OCR.
 
-**Case study:** [Read it](https://laiba-khawar-portfolio.vercel.app/work/grocery-detection)
+**Case study:** [Read it](https://www.laibakhawar.com/work/grocery-detection)
 
 ## How it works
 
@@ -79,4 +79,4 @@ This will not work without further changes; see Known limitations.
 
 ## Author
 
-[Laiba Khawar](https://github.com/LaibaKhawar) · [LinkedIn](https://www.linkedin.com/in/laiba-k-00b2b1249/)
+[Laiba Khawar](https://github.com/LaibaKhawar) · [LinkedIn](https://www.linkedin.com/in/laibakhawar/)
